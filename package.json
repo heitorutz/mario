@@ -1,0 +1,14 @@
+{
+  "name": "mario.js",
+  "version": "1.0.0",
+  "description": "Made by Heitor Urbanetz",
+  "main": "main.js",
+  "scripts": {
+    "start": "serve ./public"
+  },
+  "author": "Heitor Urbanetz",
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^13.0.2"
+  }
+}
