@@ -83,7 +83,7 @@ const main = async (canvas) => {
 
     timer.start();
 
-    runLevel('debug-coin');
+    runLevel('1-1');
 }
 
 const canvas = document.getElementById('screen');
