@@ -1,4 +1,5 @@
 use npm start or yarn start
+and then click in the screen
 
 
 
